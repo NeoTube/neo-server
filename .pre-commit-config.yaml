@@ -19,7 +19,6 @@ repos:
     rev: "v1.9.0"
     hooks:
       - id: python-check-blanket-type-ignore
-      - id: python-no-log-warn
       - id: python-use-type-annotations
 
     # isort Checks : Formatting
