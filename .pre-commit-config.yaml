@@ -1,0 +1,49 @@
+repos:
+  # Defaults
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.2.0
+    hooks:
+      - id: check-merge-conflict
+      - id: check-toml
+      - id: check-yaml
+      - id: end-of-file-fixer
+      - id: trailing-whitespace
+        args: [--markdown-linebreak-ext=md]
+  # yapf checks : formatting
+  - repo: https://github.com/pre-commit/mirrors-yapf
+    rev: v0.32.0
+    hooks:
+      - id: yapf
+        additional_dependencies: [toml]
+  - repo: https://github.com/pre-commit/pygrep-hooks
+    rev: "v1.9.0"
+    hooks:
+      - id: python-check-blanket-type-ignore
+      - id: python-no-log-warn
+      - id: python-use-type-annotations
+
+    # isort Checks : Formatting
+  - repo: https://github.com/pycqa/isort
+    rev: 5.10.1
+    hooks:
+      - id: isort
+        name: isort (python)
+        additional_dependencies: [toml]
+  # Flake8 Checks : Linting
+  - repo: local
+    hooks:
+      - id: flake8
+        name: Flake8
+        description: This hook runs flake8 within our project's environment.
+        entry: poetry run flake8
+        language: system
+        types: [python]
+        require_serial: true
+
+  # Interrgate Checks - Documentation
+  - repo: https://github.com/econchick/interrogate
+    rev: 1.5.0  # or master if you're bold
+    hooks:
+      - id: interrogate
+        args: [-vv, --config=pyproject.toml]
+        pass_filenames: false
