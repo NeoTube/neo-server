@@ -37,6 +37,7 @@ pytest-xdist = { version = "~=2.3.0", extras = ["psutil"] }
 taskipy = "~=1.7.0"
 pdoc = "^11.0.0"
 pre-commit = "^2.18.1"
+ipython = "^8.4.0"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
@@ -136,7 +137,7 @@ color = true
 # exclude = ["music/"]
 ignore_decorators = ["@app.route", "@require_*", "@client.*"]
 make_whitelist = true
-min_confidence = 75
+min_confidence = 40
 sort_by_size = true
 
 
@@ -149,7 +150,7 @@ omit = ["**/__main__.py"]
 
 [tool.coverage.report]
 show_missing = true
-fail_under = 70
+fail_under = 0 # temp
 precision = 2
 exclude_lines = ["pragma: no cover", "pass"]
 

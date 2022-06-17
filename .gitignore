@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+headers_auth.json
 # C extensions
 *.so
 
