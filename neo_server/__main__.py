@@ -4,18 +4,23 @@
 #
 # File Name: __main__.py
 
-import os
-
-from ytmusicapi import YTMusic
-
-from neo_server import constants
 from neo_server.log import get_logger
+from neo_server.neotube import StartupError
+from neo_server.utils.ytm_header_utils import check_header_json
 
 log = get_logger(__name__)
-if not os.path.exists(constants.HEADER_JSON):
-    log.warn("file does not exist : ")
-    os.mknod(constants.HEADER_JSON)
 
-if os.stat(constants.HEADER_JSON).st_size == 0:
-    log.warn("file is empty : ")
-    YTMusic.setup(filepath=constants.HEADER_JSON)
+try:
+    check_header_json()
+
+    # neotube.instance = NeoTube.create()
+    # uvicorn.run(neotube.instance, host="127.0.0.1")
+
+except StartupError as e:
+    message = "Unknown Startup Error Occurred."
+    if e.args:
+        message = e.args[0]
+    log.fatal("", exc_info=e.exception)
+    log.fatal(message)
+
+    exit(69)
