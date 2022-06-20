@@ -16,12 +16,17 @@ requests = "^"
 icecream = "^"
 youtube-search-python = "^1.6.4"
 ytmusicapi = "^0.22.0"
+pydantic = "^1.9.1"
+typing-extensions = "^4.2.0"
+fastapi = "^0.78.0"
+uvicorn = {extras = ["standard"], version = "^0.17.6"}
+fastapi-utils = "^0.2.1"
+
 
 [tool.poetry.dev-dependencies]
 # python-dotenv = "^"
 interrogate = "^1.5.0"
 isort = "^5.10.1"
-vulture = "^2.3"
 coverage = "^6.3.2"
 yapf = "^0.32.0"
 debugpy = "^1.6.0"
@@ -45,17 +50,28 @@ build-backend = "poetry.core.masonry.api"
 
 [tool.taskipy.tasks]
 start = "python -m neo_server"
-lint = "pre-commit run --all-files"
-precommit = "pre-commit install"
-prepare = "pre-commit install && pre-commit install --hook-type commit-msg"
+host = "uvicorn neo_server.__main__:app --port 8080 --host 0.0.0.0"
+dev_reload = "uvicorn neo_server.__main__:app --port 8080 --reload"
+dev = "uvicorn neo_server.__main__:app --host 0.0.0.0 --port 8000 --reload --log-level debug "
 build = "poetry build"
-test-nocov = "pytest -n auto"
+
+# formating - linting
+lint = "pre-commit run --all-files"
+isort = "isort ."
+
+# pre commit setup
+prepare = "pre-commit install && pre-commit install --hook-type commit-msg"
+precommit = "pre-commit install"
+
+# testing
 test = "pytest -n auto --cov-report= --cov --ff"
+test-nocov = "pytest -n auto"
 retest = "pytest -n auto --cov-report= --cov --lf"
 html = "coverage html"
 report = "coverage report"
 doc = "interrogate -c pyproject.toml"
-isort = "isort ."
+
+# Freeze
 freeze = "poetry export -f requirements.txt > requirements.txt --without-hashes"
 
 [tool.yapf]
@@ -134,11 +150,14 @@ whitelist-regex = []
 color = true
 
 [tool.vulture]
-# exclude = ["music/"]
-ignore_decorators = ["@app.route", "@require_*", "@client.*"]
+exclude = ["music/"]
+ignore_decorators = ["@router.*", "@require_*", "@client.*"]
+ignore_names = ["visit_*", "do_*"]
 make_whitelist = true
-min_confidence = 40
+min_confidence = 90
+paths = ["neo_server"]
 sort_by_size = true
+verbose = true
 
 
 [tool.coverage.run]
