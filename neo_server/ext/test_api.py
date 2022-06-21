@@ -6,7 +6,10 @@ from fastapi import Depends
 from fastapi_utils.cbv import cbv
 from fastapi_utils.inferring_router import InferringRouter
 
+from neo_server.log import get_logger
 from neo_server.models.app_base import AppBase
+
+log = get_logger(__name__)
 
 
 def api_test() -> int:
@@ -25,8 +28,10 @@ class TestRouter:
         self.x: int = Depends(api_test)
 
     @router.get("/test")
-    def test(self) -> int:
-        return self.x
+    def test_get(self) -> dict:
+        return {
+            "message": self.x
+        }
 
     @router.post("/test")
     def test_post(self, item: int) -> dict:

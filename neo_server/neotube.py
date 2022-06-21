@@ -1,10 +1,12 @@
+import asyncio
 import importlib
 
 from fastapi import FastAPI
+from uvicorn import Config, Server
 
 from neo_server.log import get_logger
 
-log = get_logger("norg")
+log = get_logger(__name__)
 
 
 class StartupError(Exception):
@@ -39,5 +41,8 @@ class NeoTube(FastAPI):
         """Create an NeoTube/FastAPI Instance"""
         app = cls()
         app.load_routers()
-        log.info("Instance has been created")
-        return app
+        # https://github.com/encode/uvicorn/issues/706
+        loop = asyncio.get_event_loop()
+        config = Config(app=app, loop=loop)
+        server = Server(config)
+        loop.run_until_complete(server.serve())

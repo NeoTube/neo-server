@@ -4,17 +4,17 @@
 #
 # File Name: __main__.py
 
+from neo_server import neotube
 from neo_server.log import get_logger
-from neo_server.neotube import StartupError
+from neo_server.neotube import NeoTube, StartupError
 from neo_server.utils.ytm_header_utils import check_header_json
 
 log = get_logger(__name__)
 
 try:
+    # This is ran first -> then the instance will be created
     check_header_json()
-
-    # neotube.instance = NeoTube.create()
-    # uvicorn.run(neotube.instance, host="127.0.0.1")
+    neotube.instance = NeoTube.create()
 
 except StartupError as e:
     message = "Unknown Startup Error Occurred."
