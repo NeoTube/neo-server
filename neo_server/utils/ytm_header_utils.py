@@ -40,5 +40,7 @@ def remove_header_json() -> None:
         log.warn(f"file does not exist : {constants.HEADER_JSON}")
 
 
-def setup(auth_filepath: str = constants.HEADER_JSON) -> YTMusic:
-    return YTMusic(auth_filepath)
+def setup() -> YTMusic:
+    """Return YTM instance."""
+    check_header_json()
+    return YTMusic(constants.HEADER_JSON)
