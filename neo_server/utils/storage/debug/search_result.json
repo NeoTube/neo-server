@@ -1,0 +1,569 @@
+[
+    {
+        "category": "Top result",
+        "resultType": "video",
+        "title": "I Want To Hold Your Hand - Performed Live On The Ed Sullivan ...",
+        "views": "85M",
+        "videoType": "MUSIC_VIDEO_TYPE_OMV",
+        "videoId": "jenWdylTtzs",
+        "duration": "2:37",
+        "year": null,
+        "artists": [
+            {
+                "name": "The Beatles",
+                "id": "UC2XdaAVUannpujzv32jcouQ"
+            }
+        ],
+        "duration_seconds": 157,
+        "thumbnails": [
+            {
+                "url": "https://i.ytimg.com/vi/jenWdylTtzs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3mC-_5PNhUWpi35XcVoJNHh2al4Xg",
+                "width": 400,
+                "height": 225
+            }
+        ]
+    },
+    {
+        "category": "Songs",
+        "resultType": "song",
+        "title": "Love Me Do (Remastered 2009)",
+        "album": {
+            "name": "Please Please Me",
+            "id": "MPREb_EB1GQowDeAh"
+        },
+        "feedbackTokens": {
+            "add": "AB9zfpKP9a1SaiY4ne6OychXRFY82nzQ6Z_R67Lmd4cdS_GQwxj3n4_hjulU5ZSG-zKyKa07mvMwV0MzZKsVzxX_u3zKa4w5fg",
+            "remove": "AB9zfpJlvNcUMKGXGHrwCZC5RQUbQ9ND4Wn6XXInzBM3m_AnQlBFEosrNIMckH000DVsfF3sOihPVQJBRlI9Qh0fJRVs7eSL2w"
+        },
+        "videoId": "0pGOFX1D_jg",
+        "videoType": "MUSIC_VIDEO_TYPE_ATV",
+        "duration": "2:22",
+        "year": null,
+        "artists": [
+            {
+                "name": "The Beatles",
+                "id": "UC2XdaAVUannpujzv32jcouQ"
+            }
+        ],
+        "duration_seconds": 142,
+        "isExplicit": false,
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/N5RD4QtjBE8N8F-MjvETLJMFyGVJ8y8mNKXOWurFECyv9wJfMCHq5gm6riNXCkpvhUJ9NfDqb6h6vUUGcg=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/N5RD4QtjBE8N8F-MjvETLJMFyGVJ8y8mNKXOWurFECyv9wJfMCHq5gm6riNXCkpvhUJ9NfDqb6h6vUUGcg=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
+            }
+        ]
+    },
+    {
+        "category": "Songs",
+        "resultType": "song",
+        "title": "Paperback Writer (Remastered 2009)",
+        "album": {
+            "name": "The Beatles 1962 - 1966",
+            "id": "MPREb_tymxbN4xRgQ"
+        },
+        "feedbackTokens": {
+            "add": "AB9zfpKwbYDHiMEe_2jmQx5bmap9NDNFEtGwSYqqWbGdxx5SGSjzmO3SweoB0sqr5-ENjPPFUg6Yr62i79oQRnu6rD7XHq9ysQ",
+            "remove": "AB9zfpJua54O-gmYGDIDhBUpxQgBxK1rIB2Lvc5Vlyc1KLZwuWf7GfLnN8-qnjEeB86Ka5iHdJrP8JJiwBBqo-9uoSIH01PSLw"
+        },
+        "videoId": "ytN8v3ZpYhY",
+        "videoType": "MUSIC_VIDEO_TYPE_ATV",
+        "duration": "2:20",
+        "year": null,
+        "artists": [
+            {
+                "name": "The Beatles",
+                "id": "UC2XdaAVUannpujzv32jcouQ"
+            }
+        ],
+        "duration_seconds": 140,
+        "isExplicit": false,
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/5XPHXKkSftFuEa_46Adoq4Iz7rc2DnlJuai-gk-iH_nVw54knyP-4wratRCL0jCYEq8adQVaYR2X0Dz8vA=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/5XPHXKkSftFuEa_46Adoq4Iz7rc2DnlJuai-gk-iH_nVw54knyP-4wratRCL0jCYEq8adQVaYR2X0Dz8vA=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
+            }
+        ]
+    },
+    {
+        "category": "Songs",
+        "resultType": "song",
+        "title": "That'll Be The Day (Anthology 1 Version)",
+        "album": {
+            "name": "Anthology 1",
+            "id": "MPREb_pgi9aw804Na"
+        },
+        "feedbackTokens": {
+            "add": "AB9zfpLp0us8CoVhyfZMWlA7p1trMMMLFE443hA9PzfoszcvJoXv-hpOw7822alrlRqZQWPBaKN_ZQhbQxE0jueB0bo-RT0zdw",
+            "remove": "AB9zfpK4C8WZKJT5UGxo2trcxHnJLzMBU87fXDdu7DK5rEweGHmpSwKiKVDmTjgWab_UCpUUwcyo8oomOwSCCUZFqAhnRIj_rA"
+        },
+        "videoId": "HI1BpHdpQg8",
+        "videoType": "MUSIC_VIDEO_TYPE_ATV",
+        "duration": "2:08",
+        "year": null,
+        "artists": [
+            {
+                "name": "The Quarry Men",
+                "id": "UCm_5Rfq0-eFFIPfLIcB9KNQ"
+            }
+        ],
+        "duration_seconds": 128,
+        "isExplicit": false,
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/oraRyqevGzAQqQSMp8syv7Nulo3zRzdd4K_wJM6sK7DmGeKTCoTUTmNJ8Z-rqgpfAP65Iilc8IYzr9zrhA=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/oraRyqevGzAQqQSMp8syv7Nulo3zRzdd4K_wJM6sK7DmGeKTCoTUTmNJ8Z-rqgpfAP65Iilc8IYzr9zrhA=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
+            }
+        ]
+    },
+    {
+        "category": "Videos",
+        "resultType": "video",
+        "title": "The first song ever recorded by The Quarrymen(Pre-Beatles)",
+        "views": "503K",
+        "videoType": "MUSIC_VIDEO_TYPE_UGC",
+        "videoId": "D8eqtpLxFO0",
+        "duration": "2:08",
+        "year": null,
+        "artists": [
+            {
+                "name": "fucktown",
+                "id": "UCZYTruhAagqn5aOOfUjh5JA"
+            }
+        ],
+        "duration_seconds": 128,
+        "thumbnails": [
+            {
+                "url": "https://i.ytimg.com/vi/D8eqtpLxFO0/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs=AMzJL3mRjXfw_nrQLKvvpFgb4-_6JN8EpA",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    {
+        "category": "Videos",
+        "resultType": "video",
+        "title": "Twist & Shout - Performed Live On The Ed Sullivan Show 2/23/64",
+        "views": "52M",
+        "videoType": "MUSIC_VIDEO_TYPE_OMV",
+        "videoId": "b-VAxGJdJeQ",
+        "duration": "2:49",
+        "year": null,
+        "artists": [
+            {
+                "name": "The Beatles",
+                "id": "UC2XdaAVUannpujzv32jcouQ"
+            }
+        ],
+        "duration_seconds": 169,
+        "thumbnails": [
+            {
+                "url": "https://i.ytimg.com/vi/b-VAxGJdJeQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3kwIPCVCLrIqPEvxpkZ3A_lPv5OTw",
+                "width": 400,
+                "height": 225
+            }
+        ]
+    },
+    {
+        "category": "Videos",
+        "resultType": "video",
+        "title": "The Early Beatles (1957-1962)",
+        "views": "52K",
+        "videoType": "MUSIC_VIDEO_TYPE_UGC",
+        "videoId": "9hZhDXEz4C4",
+        "duration": "2:29",
+        "year": null,
+        "artists": [
+            {
+                "name": "TheQuietBeatle",
+                "id": "UCyCHr2aFVK8WW1dNrfUj9VA"
+            }
+        ],
+        "duration_seconds": 149,
+        "thumbnails": [
+            {
+                "url": "https://i.ytimg.com/vi/9hZhDXEz4C4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3lMuMDDXabVlZXkOhJXmJn6s2bW3Q",
+                "width": 400,
+                "height": 225
+            }
+        ]
+    },
+    {
+        "category": "Albums",
+        "resultType": "album",
+        "title": "1",
+        "type": "Album",
+        "duration": null,
+        "year": "2000",
+        "artists": [
+            {
+                "name": "The Beatles",
+                "id": "UC2XdaAVUannpujzv32jcouQ"
+            }
+        ],
+        "browseId": "MPREb_mnYrD806fc4",
+        "isExplicit": false,
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/O0BM0qveWB40423x8L9AdJxuMcBhFg0x_UtCbFQ_pRwbF412bmnlKj420gEPx1wwwAVpyXHpHp35cAU=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/O0BM0qveWB40423x8L9AdJxuMcBhFg0x_UtCbFQ_pRwbF412bmnlKj420gEPx1wwwAVpyXHpHp35cAU=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/O0BM0qveWB40423x8L9AdJxuMcBhFg0x_UtCbFQ_pRwbF412bmnlKj420gEPx1wwwAVpyXHpHp35cAU=w226-h226-l90-rj",
+                "width": 226,
+                "height": 226
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/O0BM0qveWB40423x8L9AdJxuMcBhFg0x_UtCbFQ_pRwbF412bmnlKj420gEPx1wwwAVpyXHpHp35cAU=w544-h544-l90-rj",
+                "width": 544,
+                "height": 544
+            }
+        ]
+    },
+    {
+        "category": "Albums",
+        "resultType": "album",
+        "title": "Tony Sheridan With The Beatles And The Beat Brothers (1960-1961)",
+        "type": "Album",
+        "duration": null,
+        "year": "2012",
+        "artists": [
+            {
+                "name": "The Beatles",
+                "id": "UC2XdaAVUannpujzv32jcouQ"
+            }
+        ],
+        "browseId": "MPREb_Id9NbEiU4Xa",
+        "isExplicit": false,
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/Fe3jLaU4nMfsNp65YslTonnjEwC3TtRnek0urj77JLDSe5L7AiA4k52uuFVsb0HEz1U5XM9LlrDE_GJj=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/Fe3jLaU4nMfsNp65YslTonnjEwC3TtRnek0urj77JLDSe5L7AiA4k52uuFVsb0HEz1U5XM9LlrDE_GJj=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/Fe3jLaU4nMfsNp65YslTonnjEwC3TtRnek0urj77JLDSe5L7AiA4k52uuFVsb0HEz1U5XM9LlrDE_GJj=w226-h226-l90-rj",
+                "width": 226,
+                "height": 226
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/Fe3jLaU4nMfsNp65YslTonnjEwC3TtRnek0urj77JLDSe5L7AiA4k52uuFVsb0HEz1U5XM9LlrDE_GJj=w544-h544-l90-rj",
+                "width": 544,
+                "height": 544
+            }
+        ]
+    },
+    {
+        "category": "Albums",
+        "resultType": "album",
+        "title": "With The Beatles (Remastered 2009)",
+        "type": "Album",
+        "duration": null,
+        "year": "1963",
+        "artists": [
+            {
+                "name": "The Beatles",
+                "id": "UC2XdaAVUannpujzv32jcouQ"
+            }
+        ],
+        "browseId": "MPREb_cfiGXKbRGXM",
+        "isExplicit": false,
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/3FEtHPcqAjIF06HRNx6nyTVXcKp68EqjE18Wuy8IYNXMHpF_DaP9ASuSnG2wRcm1GnrMmVVLWrSjVL38=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/3FEtHPcqAjIF06HRNx6nyTVXcKp68EqjE18Wuy8IYNXMHpF_DaP9ASuSnG2wRcm1GnrMmVVLWrSjVL38=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/3FEtHPcqAjIF06HRNx6nyTVXcKp68EqjE18Wuy8IYNXMHpF_DaP9ASuSnG2wRcm1GnrMmVVLWrSjVL38=w226-h226-l90-rj",
+                "width": 226,
+                "height": 226
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/3FEtHPcqAjIF06HRNx6nyTVXcKp68EqjE18Wuy8IYNXMHpF_DaP9ASuSnG2wRcm1GnrMmVVLWrSjVL38=w544-h544-l90-rj",
+                "width": 544,
+                "height": 544
+            }
+        ]
+    },
+    {
+        "category": "Community playlists",
+        "resultType": "playlist",
+        "title": "The Beatles - the early years",
+        "itemCount": "60",
+        "author": "Ginger Marie",
+        "browseId": "VLPLGH0aVHSD7V8hZ8wa5dxo2zfnycCJT-nV",
+        "thumbnails": [
+            {
+                "url": "https://yt3.ggpht.com/GLfvLYW3jpFLQFQn5w611_ccQsVnH6qbeJbd9aL3NuLMwlfVt-G7jxcql-ukaQHpHAjfpFr6B58=s192",
+                "width": 192,
+                "height": 192
+            },
+            {
+                "url": "https://yt3.ggpht.com/GLfvLYW3jpFLQFQn5w611_ccQsVnH6qbeJbd9aL3NuLMwlfVt-G7jxcql-ukaQHpHAjfpFr6B58=s576",
+                "width": 576,
+                "height": 576
+            },
+            {
+                "url": "https://yt3.ggpht.com/GLfvLYW3jpFLQFQn5w611_ccQsVnH6qbeJbd9aL3NuLMwlfVt-G7jxcql-ukaQHpHAjfpFr6B58=s1200",
+                "width": 1200,
+                "height": 1200
+            }
+        ]
+    },
+    {
+        "category": "Community playlists",
+        "resultType": "playlist",
+        "title": "The Complete Beatles Playlist (Every Album Track and Single)",
+        "itemCount": "218",
+        "author": "Titans vs. Olympians",
+        "browseId": "VLPLYq_mcte9NvDA2Xi5Qjl1DrH5LuDKDlAI",
+        "thumbnails": [
+            {
+                "url": "https://yt3.ggpht.com/MK0rvRVW8v6pbJw3JSeGo3vaVxtIIDTWjygza6Z7zrvLJ1946Yfe_r4f_djW6mMKerJnjluG4RM=s192",
+                "width": 192,
+                "height": 192
+            },
+            {
+                "url": "https://yt3.ggpht.com/MK0rvRVW8v6pbJw3JSeGo3vaVxtIIDTWjygza6Z7zrvLJ1946Yfe_r4f_djW6mMKerJnjluG4RM=s576",
+                "width": 576,
+                "height": 576
+            },
+            {
+                "url": "https://yt3.ggpht.com/MK0rvRVW8v6pbJw3JSeGo3vaVxtIIDTWjygza6Z7zrvLJ1946Yfe_r4f_djW6mMKerJnjluG4RM=s1200",
+                "width": 1200,
+                "height": 1200
+            }
+        ]
+    },
+    {
+        "category": "Community playlists",
+        "resultType": "playlist",
+        "title": "THE BEATLES - LOVE SONGS (A CLASSIC COLLECTION OF PREVIOUSLY RELEASED BEATLES LOVE SONGS)",
+        "itemCount": "26",
+        "author": "JASON TOYN",
+        "browseId": "VLPL7KzgqJq2IfKzfIYD6GMyJU26Dp332w8Q",
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/cHaRyci2upQidmt3iHYeAzbkFJ_c1vXEJbpVh-RZpAnbyMNOtOAeZdNMoJnUrRMZnjipmxfxvuvBeFzhWw=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/cHaRyci2upQidmt3iHYeAzbkFJ_c1vXEJbpVh-RZpAnbyMNOtOAeZdNMoJnUrRMZnjipmxfxvuvBeFzhWw=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/cHaRyci2upQidmt3iHYeAzbkFJ_c1vXEJbpVh-RZpAnbyMNOtOAeZdNMoJnUrRMZnjipmxfxvuvBeFzhWw=w226-h226-l90-rj",
+                "width": 226,
+                "height": 226
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/cHaRyci2upQidmt3iHYeAzbkFJ_c1vXEJbpVh-RZpAnbyMNOtOAeZdNMoJnUrRMZnjipmxfxvuvBeFzhWw=w544-h544-l90-rj",
+                "width": 544,
+                "height": 544
+            }
+        ]
+    },
+    {
+        "category": "Artists",
+        "resultType": "artist",
+        "artist": "The Beatles",
+        "shuffleId": "RDAODwfWqCd9jXCuVO7pjkJHTw",
+        "radioId": "RDEMDwfWqCd9jXCuVO7pjkJHTw",
+        "browseId": "UC2XdaAVUannpujzv32jcouQ",
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/OnLIfADBQgrM6zwYKki9Mvq3t8cVoW39ovjtSV80qkcMXSBAIu5UVME_g4kmLE01GeVQX0sYrgDowg=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/OnLIfADBQgrM6zwYKki9Mvq3t8cVoW39ovjtSV80qkcMXSBAIu5UVME_g4kmLE01GeVQX0sYrgDowg=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
+            }
+        ]
+    },
+    {
+        "category": "Artists",
+        "resultType": "artist",
+        "artist": "Wings",
+        "shuffleId": "RDAOESmihb7CqaMaYeoZicLlIA",
+        "radioId": "RDEMESmihb7CqaMaYeoZicLlIA",
+        "browseId": "UCyyYmEud7d9iGVOYNMG9sAA",
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/0dpYchlcEe0AOjkzOCKJWJY0T8U847JcMwI5_YmOJVZouGw9c2p0zM8yXH3A0j5wFtQ96eeKDM3Zk4M=w60-h60-p-l90-rj",
+                "width": 60,
+                "height": 60
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/0dpYchlcEe0AOjkzOCKJWJY0T8U847JcMwI5_YmOJVZouGw9c2p0zM8yXH3A0j5wFtQ96eeKDM3Zk4M=w120-h120-p-l90-rj",
+                "width": 120,
+                "height": 120
+            }
+        ]
+    },
+    {
+        "category": "Artists",
+        "resultType": "artist",
+        "artist": "John Lennon",
+        "shuffleId": "RDAO3KI64-w5pkNlYHJkz44lkA",
+        "radioId": "RDEM3KI64-w5pkNlYHJkz44lkA",
+        "browseId": "UCcSL2nYSJp_IgdzH0xBBdcg",
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/rNwrmRbk3U19r6sBBarhK0GvBmOg8VFm935fc8J85HSU13cwSvVcGNNqUrG8ols56gYLwpEZu7qf-Q=w60-h60-p-l90-rj",
+                "width": 60,
+                "height": 60
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/rNwrmRbk3U19r6sBBarhK0GvBmOg8VFm935fc8J85HSU13cwSvVcGNNqUrG8ols56gYLwpEZu7qf-Q=w120-h120-p-l90-rj",
+                "width": 120,
+                "height": 120
+            }
+        ]
+    }
+]
+
+[
+  {
+    "category": "Top result",
+    "resultType": "video",
+    "videoId": "vU05Eksc_iM",
+    "title": "Wonderwall",
+    "artists": [
+      {
+        "name": "Oasis",
+        "id": "UCmMUZbaYdNH0bEd1PAlAqsA"
+      }
+    ],
+    "views": "1.4M",
+    "videoType": "MUSIC_VIDEO_TYPE_OMV",
+    "duration": "4:38",
+    "duration_seconds": 278
+  },
+
+  {
+    "category": "Songs",
+    "resultType": "song",
+    "videoId": "ZrOKjDZOtkA",
+    "title": "Wonderwall",
+    "artists": [
+      {
+        "name": "Oasis",
+        "id": "UCmMUZbaYdNH0bEd1PAlAqsA"
+      }
+    ],
+    "album": {
+      "name": "(What's The Story) Morning Glory? (Remastered)",
+      "id": "MPREb_9nqEki4ZDpp"
+    },
+    "duration": "4:19",
+    "duration_seconds": 259
+    "isExplicit": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    }
+  },
+  {
+    "category": "Albums",
+    "resultType": "album",C
+    "browseId": "MPREb_9nqEki4ZDpp",
+    "title": "(What's The Story) Morning Glory? (Remastered)",
+    "type": "Album",
+    "artist": "Oasis",
+    "year": "1995",
+    "isExplicit": false
+  },
+  {
+    "category": "Community playlists",
+    "resultType": "playlist",
+    "browseId": "VLPLK1PkWQlWtnNfovRdGWpKffO1Wdi2kvDx",
+    "title": "Wonderwall - Oasis",
+    "author": "Tate Henderson",
+    "itemCount": "174"
+  },
+  {
+    "category": "Videos",
+    "resultType": "video",
+    "videoId": "bx1Bh8ZvH84",
+    "title": "Wonderwall",
+    "artists": [
+      {
+        "name": "Oasis",
+        "id": "UCmMUZbaYdNH0bEd1PAlAqsA"
+      }
+    ],
+    "views": "386M",
+    "duration": "4:38",
+    "duration_seconds": 278
+  },
+  {
+    "category": "Artists",
+    "resultType": "artist",
+    "browseId": "UCmMUZbaYdNH0bEd1PAlAqsA",
+    "artist": "Oasis",
+    "shuffleId": "RDAOkjHYJjL1a3xspEyVkhHAsg",
+    "radioId": "RDEMkjHYJjL1a3xspEyVkhHAsg"
+  }
+]
+def search(query: str, filter: str=None, scope: str=None, limit: int=20, ignore_spelling: bool=False) -> List[Dict]
+───────────────────────────────────────────────────────────────────────────────────────
+Search YouTube music
+Returns results within the provided category.
+- `query`: i.e. 'Oasis Wonderwall'
+- `filter for item types. Allowed values, Query string: ``songs``, ``videos``, ``albums``, ``artists``, ``playlists``, ``community_playlists``, ``featured_playlists``, ``uploads``.
+  Default: Default search, including all types of items.
+- `scope`: Search scope. Allowed values: ``library``, ``uploads``.
+    Default: Search the public YouTube Music catalogue.
+- `limit`: Number of search results to return
+  Default: 20
+- `ignore_spelling`: Whether to ignore YTM spelling suggestions.
+  If True, the exact search term will be searched for, and will not be corrected.
+  This does not have any effect when the filter is set to ``uploads``.
+  Default: False, will use YTM's default behavior of autocorrecting the search.
+- returns: List of results depending on filter.
+  resultType specifies the type of item (important for default search).
+  albums, artists and playlists additionally contain a browseId, corresponding to
+  albumId, channelId and playlistId (browseId=``VL``+playlistId)
+
+  Example list for default search with one result per resultType for brevity. Normally
+  there are 3 results per resultType and an additional ``thumbnails`` key

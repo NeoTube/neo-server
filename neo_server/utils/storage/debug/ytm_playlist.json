@@ -1,0 +1,62 @@
+{
+    "Community playlists": [
+        {
+            "author": "A Bunnies World",
+            "browseId": "VLPLEWxb4I8sM9IANpBRkCH-c7fL6sIAq-Ql",
+            "id": {
+                "category": "Community playlists",
+                "resultType": "playlist",
+                "thumbnail": [
+                    {
+                        "height": 225,
+                        "url": "https://i.ytimg.com/vi/Ca5Tf5BDSYI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3knpiZTMjGdMn0wweBuPdUdTr-xNg",
+                        "width": 400
+                    },
+                    {
+                        "height": 450,
+                        "url": "https://i.ytimg.com/vi/Ca5Tf5BDSYI/hq720.jpg?sqp=-oaymwEXCKAGEMIDIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3lXpVQ-zGDdNwyjQeE7-8qYCKkYJA",
+                        "width": 800
+                    },
+                    {
+                        "height": 480,
+                        "url": "https://i.ytimg.com/vi/Ca5Tf5BDSYI/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3nEdjeZvkeGrGVtVhBR3FEnCS1ZLA",
+                        "width": 853
+                    }
+                ],
+                "title": "Anime Openings that SLAP",
+                "videoId": null
+            },
+            "itemCount": 92,
+            "type": null
+        },
+        {
+            "author": "Neko Chan",
+            "browseId": "VLPL8lZieNFgOdmrNGTqwjqYJpJ_2nw_O_M2",
+            "id": {
+                "category": "Community playlists",
+                "resultType": "playlist",
+                "thumbnail": [
+                    {
+                        "height": 192,
+                        "url": "https://yt3.ggpht.com/aX46O9jJhXn0mEPvZnnAYv8M4dwP1I3mEVDEOWmZECXje2jBQrvq6T8mb6B7O-hRYSIVcLuag68=s192",
+                        "width": 192
+                    },
+                    {
+                        "height": 576,
+                        "url": "https://yt3.ggpht.com/aX46O9jJhXn0mEPvZnnAYv8M4dwP1I3mEVDEOWmZECXje2jBQrvq6T8mb6B7O-hRYSIVcLuag68=s576",
+                        "width": 576
+                    },
+                    {
+                        "height": 1200,
+                        "url": "https://yt3.ggpht.com/aX46O9jJhXn0mEPvZnnAYv8M4dwP1I3mEVDEOWmZECXje2jBQrvq6T8mb6B7O-hRYSIVcLuag68=s1200",
+                        "width": 1200
+                    }
+                ],
+                "title": "Best anime songs playlist",
+                "videoId": null
+            },
+            "itemCount": 410,
+            "type": null
+        }
+    ]
+}
